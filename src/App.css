@@ -1,0 +1,19 @@
+.bgf{
+  background-color:#0A5E2AFF;
+}
+
+.bgs{
+  background-color:#6DAC4FFF;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .img1{
+      display: none;
+  }
+  .head1{
+    font-size:36px;
+    font-weight: bold;
+  }
+}
